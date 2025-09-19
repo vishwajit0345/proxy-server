@@ -1,0 +1,15 @@
+# Domains to block (substring match)
+# Add one domain per line
+facebook.com
+youtube.com
+twitter.com
+instagram.com
+tiktok.com
+netflix.com
+reddit.com
+gaming.youtube.com
+twitch.tv
+discord.com
+whatsapp.com
+neverssl.com
+testphp.vulnweb.com

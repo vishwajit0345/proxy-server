@@ -1,4 +1,4 @@
-#Proxy Server (Python)
+# Proxy Server (Python)
 A multi-threaded HTTP/HTTPS forward proxy implemented in Python.
 ## Features
 - HTTP request forwarding
